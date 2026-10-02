@@ -1,0 +1,1 @@
+Para a primeira pergunta o agente pega a ferramenta consultar_estoque e ela faz consulta o _ESTOQUE, que foi simulado para o exercicio, e retorna a resposta. Para a segunda pergunta o agente pega a ferramenta consultar_status_pedido e ela faz consulta o _PEDIDOS, que foi simulado para o exercicio, e retorna a resposta.

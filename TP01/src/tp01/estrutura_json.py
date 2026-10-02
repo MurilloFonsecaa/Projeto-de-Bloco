@@ -31,7 +31,6 @@ class ItemPedido(BaseModel):
         ge=0.0
     )
 
-
 class PedidoSchema(BaseModel):
     """
     Schema principal de resposta estruturada em JSON para o agente de atendimento.
